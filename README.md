@@ -32,12 +32,15 @@ I'm also an avid supporter open-source projects. The open-source community has b
  ![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask)
 
 **Database**
+
 ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
 
 **DevOps**
+
 ![My Skills](https://skillicons.dev/icons?i=docker,linux,)
 
 **Other Skills**
+
 ![My Skills](https://skillicons.dev/icons?i=bash,postman,git,vscode)
 
 ---
