@@ -18,24 +18,27 @@ I'm also an avid supporter open-source projects. The open-source community has b
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode">
   </a>
 </p>
+
 ---
-#### Skill set
+
+**Skill set**
+
  **Frontend Development**
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,typescript,react,)
+ ![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,typescript,react,)
  
 **Backend Development**
  
- [![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask)
+ ![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask)
 
 **Database**
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
 
 **DevOps**
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,)
+![My Skills](https://skillicons.dev/icons?i=docker,linux,)
 
 **Other Skills**
-[![My Skills](https://skillicons.dev/icons?i=bash,postman,git,vscode)
+![My Skills](https://skillicons.dev/icons?i=bash,postman,git,vscode)
 
 ---
 
