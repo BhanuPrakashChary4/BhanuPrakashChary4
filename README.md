@@ -5,10 +5,10 @@ I'm also an avid supporter open-source projects. The open-source community has b
 ---
 **"Feel free to reach out to me at any of these platforms:"**
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/bhanuprakashchary4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="" target="_blank">
+  <a href="bhanuprakashchary4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
   <a href="" target="_blank">
