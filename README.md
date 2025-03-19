@@ -47,7 +47,7 @@ I'm also an avid supporter open-source projects. The open-source community has b
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhanuprakashchary4&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhanuprakashchary4&theme=dark&hide_border=true" width="400">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=bhanuprakashchary4&theme=dark&hide_border=true" width="400"> -->
 </p>
 
 
